@@ -1,0 +1,13 @@
+/* CSS by Bonnie Watson */
+/* Color Palette That Will Change With Refinements
+color= #F66C89
+color= #F27798
+color= #013440
+color= #234D68
+color= #566B81
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+body {
+    background-color: #566B81;
+}
